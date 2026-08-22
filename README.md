@@ -25,7 +25,7 @@
 
 ## About
 
-I'm Ayed, a software engineer and product manager in Riyadh. I like owning the whole loop — talking to users, writing the spec, building it, shipping it, and reading the numbers afterwards. Lately that means fintech and investor tooling in TypeScript; before that, computer-vision pipelines and GPS-denied drone navigation. I build Arabic/English by default, ship with security and audit trails built in, and lean hard on AI agents in my workflow. Off the clock: hackathons (Defensethon 2026, Gravity 2023), formal methods, and anything that flies without GPS.
+Software engineer and product manager in Riyadh. In the past year I shipped a self-hosted investor data room to production in three weeks and grew it into a multi-tenant SaaS with Stripe billing; built Saqer, a voice-first operator that runs Claude Code across my repos from an iPhone with human-in-the-loop approvals; and co-built TerraShield, which hit 95.8% human detection on real geophone data at Defensethon 2026. Before that: a GPS-denied drone navigation stack (optical-flow VIO + visual place recognition + a GTSAM factor graph) for PSAU's R&D Center, computer-vision automation and roadmap ownership at Wetaan, and a term as President of the PSAU Cyber Security Club. Everything I build is Arabic/English from day one, and most of my repos carry their own PRD and decision log.
 
 ## Stack
 
