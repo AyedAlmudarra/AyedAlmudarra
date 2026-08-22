@@ -25,7 +25,7 @@
 
 ## About
 
-Software Engineer & Product Manager in Riyadh. I take products from PRD to production — lately fintech and investor tooling in TypeScript, with ML and computer-vision work on the side. Before that: product roadmap at Wetaan (+15% platform engagement), Python/OpenCV automation (~20% efficiency gain), and GPS-denied UAV navigation research with PSAU's R&D Center. Defensethon 2026 and Gravity Hackathon 2023; former President of the PSAU Cyber Security Club and Activities Committee Lead on the Student Council. Interested in formal methods (Coloured Petri Nets), autonomy, and agentic developer tooling.
+I'm Ayed, a software engineer and product manager in Riyadh. I like owning the whole loop — talking to users, writing the spec, building it, shipping it, and reading the numbers afterwards. Lately that means fintech and investor tooling in TypeScript; before that, computer-vision pipelines and GPS-denied drone navigation. I build Arabic/English by default, ship with security and audit trails built in, and lean hard on AI agents in my workflow. Off the clock: hackathons (Defensethon 2026, Gravity 2023), formal methods, and anything that flies without GPS.
 
 ## Stack
 
