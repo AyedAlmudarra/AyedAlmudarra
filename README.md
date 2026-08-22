@@ -16,7 +16,7 @@ AI-first products, computer vision, and full-stack TypeScript.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [TerraShield](https://github.com/AyedAlmudarra/terra-shield) | Smart-ground vibration security system (Defensethon hackathon). ML classification + TDOA source localization; 95.8% human-detection accuracy on the FootprintID geophone dataset. | Python · JavaScript · React |
-| [RISE](https://github.com/AyedAlmudarra/rise) | Startup–investor platform for the Saudi market: AI matchmaking, deal-flow boards, diligence briefs, secure messaging. | React · TypeScript · Supabase |
+| [RISE](https://github.com/AyedAlmudarra/rise) · [Live](https://rise-red.vercel.app) | Startup–investor platform for the Saudi market: AI matchmaking, deal-flow boards, diligence briefs, secure messaging. | React · TypeScript · Supabase |
 | GPS-denied navigation | Sensor-fusion + computer-vision localization stack for autonomous drones, built for PSAU's R&D Center. | Python · OpenCV |
 
 ## Stack
