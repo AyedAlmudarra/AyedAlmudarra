@@ -16,20 +16,16 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **Investor Data Room** | Secure fundraising data rooms — watermarked viewers, NDA e-sign, engagement heatmaps. Shipped to production in ~3 weeks, then grown into a multi-tenant SaaS with Stripe billing and custom domains. | Next.js · Prisma · PostgreSQL · Redis · Stripe · Docker |
-| **LUBY** | Curated luxury-residence platform for Saudi Arabia: storefront, owner console, admin. Double-booking is impossible at the DB level; local payments, ZATCA e-invoicing, OTP auth, 13 cron jobs. | Bun · Express · Next.js · Prisma · PostgreSQL |
 | **Saqer** | Voice-first AI operator that drives Claude Code across my projects from an iPhone app — event-sourced, human-in-the-loop approvals, budgets, audit log. 21 ADRs. | TypeScript · Hono · Drizzle · SwiftUI · MCP |
 | [**TerraShield**](https://github.com/AyedAlmudarra/terra-shield) | Smart-ground vibration security (Defensethon 2026, Saudi MoD/GADD): ML classification + TDOA localization. **95.8%** human detection on the FootprintID geophone dataset, sub-metre localization. | Python · Flask · scikit-learn · XGBoost · React |
 | [**RISE**](https://github.com/AyedAlmudarra/rise) · [live](https://rise-red.vercel.app) | Startup–investor platform for Saudi Arabia with a fine-tuned GPT-3.5 model producing structured investment-readiness analyses; realtime dashboards, 4 languages. | React · Supabase · OpenAI · Gemini |
 | **Glint** | Career exploration for Saudi youth: eight browser job simulators (code editor, terminal + VFS, spreadsheet formula engine…), Arabic tool-calling AI mentor, QR-verifiable certificates. | React · Supabase · Cohere/OpenAI · CodeMirror |
 | **GPS-denied UAV navigation** | ROS-free VIO + visual place recognition fused in a GTSAM factor graph, streamed to ArduPilot as vision position; quaternion EKF, ~20 FPS in Gazebo SITL. Built for PSAU's R&D Center. | Python · OpenCV · GTSAM · ArduPilot · Gazebo |
 
-<sub>Also: a bilingual venture-studio platform, a team Kanban tracker (tRPC + REST), and an Arabic-first fintech wallet demo. Unlinked projects are private — happy to walk through them.</sub>
 
-## Background
+## About
 
-- **End-to-end product ownership** — PRD, roadmap and ADRs, then build, test, deploy. Spec-driven, AI-assisted delivery: a production data room in ~3 weeks, a booking platform MVP in days.
-- **Defaults** — Arabic/English RTL from day one · security by design (RLS, RBAC, audit) · Saudi-market integrations (payments, ZATCA, SMS OTP) · Docker + CI everywhere.
-- **Before** — roadmap owner at Wetaan (+15% engagement) · OpenCV reporting pipelines (~20% efficiency) · PSAU R&D · President, PSAU Cyber Security Club · Defensethon 2026, Gravity Hackathon 2023.
+Software Engineer & Product Manager in Riyadh. I take products from PRD to production — lately fintech and investor tooling in TypeScript, with ML and computer-vision work on the side. Before that: product roadmap at Wetaan (+15% platform engagement), Python/OpenCV automation (~20% efficiency gain), and GPS-denied UAV navigation research with PSAU's R&D Center. Defensethon 2026 and Gravity Hackathon 2023; former President of the PSAU Cyber Security Club and Activities Committee Lead on the Student Council. Interested in formal methods (Coloured Petri Nets), autonomy, and agentic developer tooling.
 
 ## Stack
 
