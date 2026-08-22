@@ -23,13 +23,6 @@
 | **GPS-denied UAV navigation** | ROS-free VIO + visual place recognition fused in a GTSAM factor graph, streamed to ArduPilot as vision position; quaternion EKF, ~20 FPS in Gazebo SITL. Built for PSAU's R&D Center. | Python · OpenCV · GTSAM · ArduPilot · Gazebo |
 
 
-## How I work
-
-- **Spec first.** Every repo starts with a PRD and keeps a decision log.
-- **Ship small, ship often.** A production data room in three weeks; a conference demo in two days.
-- **Bilingual by default.** Arabic and English, RTL from day one — CI fails on a missing translation.
-- **Security is a feature.** Row-level security, RBAC, audit trails, and a human approval before anything destructive.
-
 ## Stack
 
 **Web**&nbsp;&nbsp;
