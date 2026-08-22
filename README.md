@@ -25,7 +25,7 @@
 
 ## About
 
-Software engineer and product manager in Riyadh. In the past year I shipped a self-hosted investor data room to production in three weeks and grew it into a multi-tenant SaaS with Stripe billing; built Saqer, a voice-first operator that runs Claude Code across my repos from an iPhone with human-in-the-loop approvals; and co-built TerraShield, which hit 95.8% human detection on real geophone data at Defensethon 2026. Before that: a GPS-denied drone navigation stack (optical-flow VIO + visual place recognition + a GTSAM factor graph) for PSAU's R&D Center, computer-vision automation and roadmap ownership at Wetaan, and a term as President of the PSAU Cyber Security Club. Everything I build is Arabic/English from day one, and most of my repos carry their own PRD and decision log.
+Software engineer and product manager in Riyadh. Recently: an investor data room shipped to production in three weeks, then grown into a multi-tenant SaaS; Saqer, a voice-first operator that runs Claude Code from an iPhone with human-in-the-loop approvals; TerraShield, 95.8% human detection on real geophone data at Defensethon 2026. Earlier: GPS-denied drone navigation at PSAU's R&D Center, and product and computer-vision work at Wetaan.
 
 ## Stack
 
