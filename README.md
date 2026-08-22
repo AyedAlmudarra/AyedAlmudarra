@@ -23,9 +23,12 @@
 | **GPS-denied UAV navigation** | ROS-free VIO + visual place recognition fused in a GTSAM factor graph, streamed to ArduPilot as vision position; quaternion EKF, ~20 FPS in Gazebo SITL. Built for PSAU's R&D Center. | Python · OpenCV · GTSAM · ArduPilot · Gazebo |
 
 
-## About
+## How I work
 
-Software engineer and product manager in Riyadh. Recently: an investor data room shipped to production in three weeks, then grown into a multi-tenant SaaS; Saqer, a voice-first operator that runs Claude Code from an iPhone with human-in-the-loop approvals; TerraShield, 95.8% human detection on real geophone data at Defensethon 2026. Earlier: GPS-denied drone navigation at PSAU's R&D Center, and product and computer-vision work at Wetaan.
+- **Spec first.** Every repo starts with a PRD and keeps a decision log.
+- **Ship small, ship often.** A production data room in three weeks; a conference demo in two days.
+- **Bilingual by default.** Arabic and English, RTL from day one — CI fails on a missing translation.
+- **Security is a feature.** Row-level security, RBAC, audit trails, and a human approval before anything destructive.
 
 ## Stack
 
