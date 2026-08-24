@@ -5,7 +5,7 @@
   <img alt="Ayed Almudarra — Software Engineer & Product Manager · Riyadh, Saudi Arabia" src="https://raw.githubusercontent.com/AyedAlmudarra/AyedAlmudarra/main/assets/banner-light.svg" width="100%">
 </picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayedalmudarra-0A66C2?style=flat)](https://www.linkedin.com/in/ayedalmudarra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayed--almudarra-0A66C2?style=flat)](https://www.linkedin.com/in/ayed-almudarra/)
 [![X](https://img.shields.io/badge/X-@liiitb-000000?style=flat&logo=x)](https://x.com/liiitb)
 [![Email](https://img.shields.io/badge/Email-AyedAlmudarra%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:AyedAlmudarra@gmail.com)
 
